@@ -841,7 +841,7 @@ ul.alt li {
 
 #banner {
     background: url('../../images/1.jpg') center top fixed;
-     
+     object-fit: cover;
     height: 100vh;
     text-align: center;
     
