@@ -840,13 +840,13 @@ ul.alt li {
 }
 
 #banner {
-    background: url('../../images/1.jpg') center fixed;
-    z-index: 1000;
+    background: url('../../images/1.jpg') center top fixed;
+     
     height: 100vh;
     text-align: center;
-    cursor: default;
-    padding: 10em 4em 9em 4em;
-    display: block;
+    
+     
+     
 }
 
 
